@@ -44,7 +44,18 @@
 </p>
 
 -----
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=PiuFlor&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiuFlor&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+
+--------
 <h3 align="center">Connect with me 🤝 </h3>
 
 <p align="center">
