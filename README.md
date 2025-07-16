@@ -48,9 +48,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Piuflor&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Piuflor&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piuflor&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PiuFlor&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PiuFlor&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PiuFlor&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
